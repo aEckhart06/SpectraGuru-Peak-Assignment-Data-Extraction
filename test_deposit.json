@@ -1,0 +1,517 @@
+{
+  "number_valid_raman_only_tables": 1,
+  "raman_peak_assignment_tables": [
+    {
+      "table_title": "Table 6.",
+      "table_description": "Raman spectrum of $C_2F_5I$",
+      "rows": [
+        {
+          "peak": 1321,
+          "peak_high": null,
+          "peak_low": null,
+          "peak_width": null,
+          "relative_intensity": "w",
+          "additional_notes": "depol.",
+          "vibrational_mode_details": {
+            "notation_convention": "Wilson Numbering",
+            "assignment_label": "\u03bd12",
+            "mulliken_label": null,
+            "mulliken_symmetry_label": "a''",
+            "descriptive_symmetry_label": "antisymmetric",
+            "descriptive_symmetry_label_raw": null,
+            "descriptive_motion_label": null,
+            "geometric_motion_label": null,
+            "phase_label": null,
+            "moiety": null,
+            "vibrational_mode_description": null,
+            "strucutural_position": "",
+            "raw_assignment": "$\\nu_{12}$ $a''$"
+          }
+        },
+        {
+          "peak": 1234,
+          "peak_high": null,
+          "peak_low": null,
+          "peak_width": null,
+          "relative_intensity": "w",
+          "additional_notes": "pol?",
+          "vibrational_mode_details": {
+            "notation_convention": "Wilson Numbering",
+            "assignment_label": "\u03bd1",
+            "mulliken_label": null,
+            "mulliken_symmetry_label": "a'",
+            "descriptive_symmetry_label": "symmetric",
+            "descriptive_symmetry_label_raw": null,
+            "descriptive_motion_label": null,
+            "geometric_motion_label": null,
+            "phase_label": null,
+            "moiety": null,
+            "vibrational_mode_description": null,
+            "strucutural_position": "",
+            "raw_assignment": "$\\nu_1$ $a'$"
+          }
+        },
+        {
+          "peak": 1210,
+          "peak_high": null,
+          "peak_low": null,
+          "peak_width": null,
+          "relative_intensity": "m",
+          "additional_notes": "pol.",
+          "vibrational_mode_details": {
+            "notation_convention": "Wilson Numbering",
+            "assignment_label": "\u03bd2",
+            "mulliken_label": null,
+            "mulliken_symmetry_label": "a'",
+            "descriptive_symmetry_label": "symmetric",
+            "descriptive_symmetry_label_raw": null,
+            "descriptive_motion_label": null,
+            "geometric_motion_label": null,
+            "phase_label": null,
+            "moiety": null,
+            "vibrational_mode_description": null,
+            "strucutural_position": "",
+            "raw_assignment": "$\\nu_2$ $a'$"
+          }
+        },
+        {
+          "peak": 1153,
+          "peak_high": null,
+          "peak_low": null,
+          "peak_width": null,
+          "relative_intensity": "w",
+          "additional_notes": "depol.",
+          "vibrational_mode_details": {
+            "notation_convention": "Wilson Numbering",
+            "assignment_label": "\u03bd13",
+            "mulliken_label": null,
+            "mulliken_symmetry_label": "a''",
+            "descriptive_symmetry_label": "antisymmetric",
+            "descriptive_symmetry_label_raw": null,
+            "descriptive_motion_label": null,
+            "geometric_motion_label": null,
+            "phase_label": null,
+            "moiety": null,
+            "vibrational_mode_description": null,
+            "strucutural_position": "",
+            "raw_assignment": "$\\nu_{13}$ $a''$"
+          }
+        },
+        {
+          "peak": 1100,
+          "peak_high": null,
+          "peak_low": null,
+          "peak_width": null,
+          "relative_intensity": "m",
+          "additional_notes": "pol.",
+          "vibrational_mode_details": {
+            "notation_convention": "Wilson Numbering",
+            "assignment_label": "\u03bd3",
+            "mulliken_label": null,
+            "mulliken_symmetry_label": "a'",
+            "descriptive_symmetry_label": "symmetric",
+            "descriptive_symmetry_label_raw": null,
+            "descriptive_motion_label": null,
+            "geometric_motion_label": null,
+            "phase_label": null,
+            "moiety": null,
+            "vibrational_mode_description": null,
+            "strucutural_position": "",
+            "raw_assignment": "$\\nu_3$ $a'$"
+          }
+        },
+        {
+          "peak": 917,
+          "peak_high": null,
+          "peak_low": null,
+          "peak_width": null,
+          "relative_intensity": "s",
+          "additional_notes": "pol.",
+          "vibrational_mode_details": {
+            "notation_convention": "Wilson Numbering",
+            "assignment_label": "\u03bd4",
+            "mulliken_label": null,
+            "mulliken_symmetry_label": "a''",
+            "descriptive_symmetry_label": "antisymmetric",
+            "descriptive_symmetry_label_raw": null,
+            "descriptive_motion_label": null,
+            "geometric_motion_label": null,
+            "phase_label": null,
+            "moiety": null,
+            "vibrational_mode_description": null,
+            "strucutural_position": "",
+            "raw_assignment": "$\\nu_4$ $a''$"
+          }
+        },
+        {
+          "peak": 744,
+          "peak_high": null,
+          "peak_low": null,
+          "peak_width": null,
+          "relative_intensity": "vs",
+          "additional_notes": "pol.",
+          "vibrational_mode_details": {
+            "notation_convention": "Wilson Numbering",
+            "assignment_label": "\u03bd5",
+            "mulliken_label": null,
+            "mulliken_symmetry_label": "a'",
+            "descriptive_symmetry_label": "symmetric",
+            "descriptive_symmetry_label_raw": null,
+            "descriptive_motion_label": null,
+            "geometric_motion_label": null,
+            "phase_label": null,
+            "moiety": null,
+            "vibrational_mode_description": null,
+            "strucutural_position": "",
+            "raw_assignment": "$\\nu_5$ $a'$"
+          }
+        },
+        {
+          "peak": 687,
+          "peak_high": null,
+          "peak_low": null,
+          "peak_width": null,
+          "relative_intensity": "vw",
+          "additional_notes": "\u2014",
+          "vibrational_mode_details": {
+            "notation_convention": "Wilson Numbering",
+            "assignment_label": "\u03bd14",
+            "mulliken_label": null,
+            "mulliken_symmetry_label": "a''",
+            "descriptive_symmetry_label": "antisymmetric",
+            "descriptive_symmetry_label_raw": null,
+            "descriptive_motion_label": null,
+            "geometric_motion_label": null,
+            "phase_label": null,
+            "moiety": null,
+            "vibrational_mode_description": null,
+            "strucutural_position": "",
+            "raw_assignment": "$\\nu_{14}$ $a''$"
+          }
+        },
+        {
+          "peak": 622,
+          "peak_high": null,
+          "peak_low": null,
+          "peak_width": null,
+          "relative_intensity": "vs",
+          "additional_notes": "pol.",
+          "vibrational_mode_details": {
+            "notation_convention": "Wilson Numbering",
+            "assignment_label": "\u03bd6",
+            "mulliken_label": null,
+            "mulliken_symmetry_label": "a'",
+            "descriptive_symmetry_label": "symmetric",
+            "descriptive_symmetry_label_raw": null,
+            "descriptive_motion_label": null,
+            "geometric_motion_label": null,
+            "phase_label": null,
+            "moiety": null,
+            "vibrational_mode_description": null,
+            "strucutural_position": "",
+            "raw_assignment": "$\\nu_6$ $a'$"
+          }
+        },
+        {
+          "peak": 590,
+          "peak_high": null,
+          "peak_low": null,
+          "peak_width": null,
+          "relative_intensity": "s",
+          "additional_notes": "depol.",
+          "vibrational_mode_details": {
+            "notation_convention": "Wilson Numbering",
+            "assignment_label": "\u03bd15",
+            "mulliken_label": null,
+            "mulliken_symmetry_label": "a''",
+            "descriptive_symmetry_label": "antisymmetric",
+            "descriptive_symmetry_label_raw": null,
+            "descriptive_motion_label": null,
+            "geometric_motion_label": null,
+            "phase_label": null,
+            "moiety": null,
+            "vibrational_mode_description": null,
+            "strucutural_position": "",
+            "raw_assignment": "$\\nu_{15}$ $a''$"
+          }
+        },
+        {
+          "peak": 544,
+          "peak_high": null,
+          "peak_low": null,
+          "peak_width": null,
+          "relative_intensity": "vs",
+          "additional_notes": "pol.",
+          "vibrational_mode_details": {
+            "notation_convention": "Wilson Numbering",
+            "assignment_label": "\u03bd7",
+            "mulliken_label": null,
+            "mulliken_symmetry_label": "a'",
+            "descriptive_symmetry_label": "symmetric",
+            "descriptive_symmetry_label_raw": null,
+            "descriptive_motion_label": null,
+            "geometric_motion_label": null,
+            "phase_label": null,
+            "moiety": null,
+            "vibrational_mode_description": null,
+            "strucutural_position": "",
+            "raw_assignment": "$\\nu_7$ $a'$"
+          }
+        },
+        {
+          "peak": 433,
+          "peak_high": null,
+          "peak_low": null,
+          "peak_width": null,
+          "relative_intensity": "m",
+          "additional_notes": "\u2014",
+          "vibrational_mode_details": {
+            "notation_convention": "Wilson Numbering",
+            "assignment_label": "\u03bd16",
+            "mulliken_label": null,
+            "mulliken_symmetry_label": "a''",
+            "descriptive_symmetry_label": "antisymmetric",
+            "descriptive_symmetry_label_raw": null,
+            "descriptive_motion_label": null,
+            "geometric_motion_label": null,
+            "phase_label": null,
+            "moiety": null,
+            "vibrational_mode_description": null,
+            "strucutural_position": "",
+            "raw_assignment": "$\\nu_{16}$ $a''$"
+          }
+        },
+        {
+          "peak": 366,
+          "peak_high": null,
+          "peak_low": null,
+          "peak_width": null,
+          "relative_intensity": "vs",
+          "additional_notes": "pol.",
+          "vibrational_mode_details": {
+            "notation_convention": "Wilson Numbering",
+            "assignment_label": "\u03bd8",
+            "mulliken_label": null,
+            "mulliken_symmetry_label": "a'",
+            "descriptive_symmetry_label": "symmetric",
+            "descriptive_symmetry_label_raw": null,
+            "descriptive_motion_label": null,
+            "geometric_motion_label": null,
+            "phase_label": null,
+            "moiety": null,
+            "vibrational_mode_description": null,
+            "strucutural_position": "",
+            "raw_assignment": "$\\nu_8$ $a'$"
+          }
+        },
+        {
+          "peak": 300,
+          "peak_high": null,
+          "peak_low": null,
+          "peak_width": null,
+          "relative_intensity": "vs",
+          "additional_notes": "pol.",
+          "vibrational_mode_details": {
+            "notation_convention": "Wilson Numbering",
+            "assignment_label": "\u03bd9",
+            "mulliken_label": null,
+            "mulliken_symmetry_label": "a'",
+            "descriptive_symmetry_label": "symmetric",
+            "descriptive_symmetry_label_raw": null,
+            "descriptive_motion_label": null,
+            "geometric_motion_label": null,
+            "phase_label": null,
+            "moiety": null,
+            "vibrational_mode_description": null,
+            "strucutural_position": "",
+            "raw_assignment": "$\\nu_9$ $a'$"
+          }
+        },
+        {
+          "peak": 262,
+          "peak_high": null,
+          "peak_low": null,
+          "peak_width": null,
+          "relative_intensity": "vvs",
+          "additional_notes": "pol.",
+          "vibrational_mode_details": {
+            "notation_convention": "Wilson Numbering",
+            "assignment_label": "\u03bd10",
+            "mulliken_label": null,
+            "mulliken_symmetry_label": "a'",
+            "descriptive_symmetry_label": "symmetric",
+            "descriptive_symmetry_label_raw": null,
+            "descriptive_motion_label": null,
+            "geometric_motion_label": null,
+            "phase_label": null,
+            "moiety": null,
+            "vibrational_mode_description": null,
+            "strucutural_position": "",
+            "raw_assignment": "$\\nu_{10}$ $a'$"
+          }
+        },
+        {
+          "peak": 223,
+          "peak_high": null,
+          "peak_low": null,
+          "peak_width": null,
+          "relative_intensity": "w",
+          "additional_notes": "\u2014",
+          "vibrational_mode_details": {
+            "notation_convention": "Wilson Numbering",
+            "assignment_label": "\u03bd11",
+            "mulliken_label": null,
+            "mulliken_symmetry_label": "a'",
+            "descriptive_symmetry_label": "symmetric",
+            "descriptive_symmetry_label_raw": null,
+            "descriptive_motion_label": null,
+            "geometric_motion_label": null,
+            "phase_label": null,
+            "moiety": null,
+            "vibrational_mode_description": null,
+            "strucutural_position": "",
+            "raw_assignment": "$\\nu_{11}$ $a'$"
+          }
+        },
+        {
+          "peak": 204,
+          "peak_high": null,
+          "peak_low": null,
+          "peak_width": null,
+          "relative_intensity": "w",
+          "additional_notes": "\u2014; (Hg 4347)",
+          "vibrational_mode_details": {
+            "notation_convention": "Wilson Numbering",
+            "assignment_label": "\u03bd10",
+            "mulliken_label": null,
+            "mulliken_symmetry_label": null,
+            "descriptive_symmetry_label": null,
+            "descriptive_symmetry_label_raw": null,
+            "descriptive_motion_label": null,
+            "geometric_motion_label": null,
+            "phase_label": null,
+            "moiety": null,
+            "vibrational_mode_description": null,
+            "strucutural_position": "",
+            "raw_assignment": "$\\nu_{10}$ (Hg 4347)"
+          }
+        },
+        {
+          "peak": 162,
+          "peak_high": null,
+          "peak_low": null,
+          "peak_width": null,
+          "relative_intensity": "vvw",
+          "additional_notes": "\u2014; (Hg 4339)",
+          "vibrational_mode_details": {
+            "notation_convention": "Wilson Numbering",
+            "assignment_label": "\u03bd10",
+            "mulliken_label": null,
+            "mulliken_symmetry_label": null,
+            "descriptive_symmetry_label": null,
+            "descriptive_symmetry_label_raw": null,
+            "descriptive_motion_label": null,
+            "geometric_motion_label": null,
+            "phase_label": null,
+            "moiety": null,
+            "vibrational_mode_description": null,
+            "strucutural_position": "",
+            "raw_assignment": "$\\nu_{10}$ (Hg 4339)"
+          }
+        },
+        {
+          "peak": 133,
+          "peak_high": null,
+          "peak_low": null,
+          "peak_width": null,
+          "relative_intensity": "vs",
+          "additional_notes": "\u2014",
+          "vibrational_mode_details": {
+            "notation_convention": "Wilson Numbering",
+            "assignment_label": "\u03bd17",
+            "mulliken_label": null,
+            "mulliken_symmetry_label": "a''",
+            "descriptive_symmetry_label": "antisymmetric",
+            "descriptive_symmetry_label_raw": null,
+            "descriptive_motion_label": null,
+            "geometric_motion_label": null,
+            "phase_label": null,
+            "moiety": null,
+            "vibrational_mode_description": null,
+            "strucutural_position": "",
+            "raw_assignment": "$\\nu_{17}$ $a''$"
+          }
+        },
+        {
+          "peak": 70,
+          "peak_high": null,
+          "peak_low": null,
+          "peak_width": null,
+          "relative_intensity": null,
+          "additional_notes": "?",
+          "vibrational_mode_details": {
+            "notation_convention": "Wilson Numbering",
+            "assignment_label": "\u03bd18",
+            "mulliken_label": null,
+            "mulliken_symmetry_label": "a''",
+            "descriptive_symmetry_label": "antisymmetric",
+            "descriptive_symmetry_label_raw": null,
+            "descriptive_motion_label": null,
+            "geometric_motion_label": null,
+            "phase_label": null,
+            "moiety": null,
+            "vibrational_mode_description": null,
+            "strucutural_position": "",
+            "raw_assignment": "$\\nu_{18}$ $a''$"
+          }
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "reference_num": 1,
+      "raw_reference": "[1] J. R. NIELSEN, C. Y. LIANG, R. M. SMITH and D. C. SMITH, _J. Chem. Phys._ **21**, 383 (1953)."
+    },
+    {
+      "reference_num": 2,
+      "raw_reference": "[2] P. KLAPOR and J. R. NIELSEN, _J. Chem. Phys._ **30**, 1375 (1959)."
+    },
+    {
+      "reference_num": 3,
+      "raw_reference": "[3] J. R. BARCELO, _J. Research Nat. Bur. Standards_ **44**, 521 (1950)."
+    },
+    {
+      "reference_num": 4,
+      "raw_reference": "[4] M. HAUFROSEN and A. VON GROSSE, _J. Am. Chem. Soc._ **73**, 2461 (1951)."
+    },
+    {
+      "reference_num": 5,
+      "raw_reference": "[5] R. C. TAYLOR and G. VIDALE, _J. Am. Chem. Soc._ **78**, 294 (1956)."
+    },
+    {
+      "reference_num": 6,
+      "raw_reference": "[6] J. R. NIELSEN, C. M. RICHARDS and H. L. McMURRAY, _J. Chem. Phys._ **16**, 67 (1948)."
+    },
+    {
+      "reference_num": 7,
+      "raw_reference": "[7] D. H. RANK and E. L. PACE, _J. Chem. Phys._ **15**, 39 (1947)."
+    },
+    {
+      "reference_num": 8,
+      "raw_reference": "[8] G. HERZBERG, _Infra-red and Raman Spectra_ p. 226. van Nostrand, New York (1945)."
+    },
+    {
+      "reference_num": 9,
+      "raw_reference": "[9] L. S. BARTELL and L. O. BROCKWAY, _J. Chem. Phys._ **23**, 1860 (1955); R. E. ANDERSON, Thesis, University of Michigan (1956)."
+    },
+    {
+      "reference_num": 10,
+      "raw_reference": "[10] E. L. PACE, _J. Chem. Phys._ **16**, 74 (1948)."
+    },
+    {
+      "reference_num": 11,
+      "raw_reference": "[11] J. A. A. KETELAAR, _Chemical Constitution_ (2nd Ed.) p. 201. Amsterdam (1958)."
+    }
+  ]
+}
